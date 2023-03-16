@@ -2,6 +2,9 @@
 pew pew
 
 
+run main.exe to run
+
+
 Basically funi game where you shoot "enemies" and stuff
 
 A few notes:
